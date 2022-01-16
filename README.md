@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=console.log('Jeongeum');&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffec99&height=300&section=header&text=console.log('Jeongeum');&fontColor=495057&fontSize=60" />
 
   
  
