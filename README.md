@@ -36,9 +36,14 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkswjddma)](https://solved.ac/dkswjddma)
-</div>
   
   <!--
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=Jeongeum&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+</div>
+  
+ 
 **Jeongeum/Jeongeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
