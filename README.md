@@ -34,10 +34,10 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkswjddma)](https://solved.ac/dkswjddma)
   
-  <!--
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Jeongeum&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
