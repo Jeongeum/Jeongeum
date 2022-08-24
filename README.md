@@ -3,12 +3,19 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ffec99&height=300&section=header&text=console.log('Jeongeum');&fontColor=495057&fontSize=60" />
 
-  
- 
- ## 📚 Tech Stack 📚 
+#        _                            __ _                          
+#     _ | |   ___     ___    _ _     / _` |   ___    _  _    _ __   
+#    | || |  / -_)   / _ \  | ' \    \__, |  / -_)  | +| |  | '  \  
+#    _\__/   \___|   \___/  |_||_|   |___/   \___|   \_,_|  |_|_|_| 
+#  _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
+#  "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'                                                                   
+                                                                        
 
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> 
+<div align=right>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-woong&count_bg=%234778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Viewers&edge_flat=true"/></a>
+</div>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
   
@@ -19,20 +26,22 @@
 
 <br/>
   
-## ME :thought_balloon:
 
-
-<a href="https://jeongeum1202.tistory.com/"><img src="https://img.shields.io/badge/Blog-3A3A42?style=flat-square&logo=Telegraph&logoColor=white"/></a>
-<a href="mailto:wjddma119@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-<a href="mailto:wjddma119@gmail.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 
 <!--<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>-->
 
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongeum&theme=graywhite&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongeum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Jeongeum&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,Jeongeum,Jeongeum.github.io"/></a>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongeum&layout=compact&theme=gotham&exclude_repo=Mac-Settings,Jeongeum,Jeongeum.github.io"/></a>
+        </td>
+    </tr>
+</table>
 
 <!--
 [![Solved.ac
@@ -57,3 +66,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
